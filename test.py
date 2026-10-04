@@ -7,5 +7,9 @@ def Add():
 def Subtract():
     return a-b;
 
+def Multiplication():
+    return a*b;
+
 print(Add());
 print(Subtract());
+print(Multiplication());
